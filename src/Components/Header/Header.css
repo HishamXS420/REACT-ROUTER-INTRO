@@ -1,0 +1,9 @@
+a.active{
+  
+    font-weight:700;
+    color: purple;
+}
+
+/* 
+this css will execute when NavLink is Active
+*/
